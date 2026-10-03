@@ -1,19 +1,30 @@
-# GitHub Profile Studio
+# GitHub Profile Studio 🐙
 
-Build a polished GitHub profile README with a live preview and Markdown export.
+Create a polished GitHub profile README with a live preview and ready-to-copy Markdown.
 
-## Features
-- Live GitHub-style preview
+## ✨ Features
+
+- GitHub-style live preview
 - Name, tagline and about section
 - Skills and project sections
-- GitHub profile link
+- Profile links
 - Copy Markdown
 - Download `README.md`
 - Responsive, dependency-free UI
 - Client-side editing
 
-## Run
+## 🚀 Run
+
 Open `index.html` directly or serve the folder with any static web server.
 
-## License
-MIT
+## 🔒 Privacy
+
+Profile drafts stay in your browser. No account or backend is required.
+
+## 🤝 Contributing
+
+New templates, profile sections, styling options, Markdown helpers, and accessibility improvements are welcome.
+
+## 📄 License
+
+MIT License.
